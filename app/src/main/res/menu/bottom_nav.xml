@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_cook"
+        android:icon="@drawable/svg_cook"
+        android:title="Cook" />
+    <item
+        android:id="@+id/bottom_favourite"
+        android:icon="@drawable/svg_favourite"
+        android:title="Favourite" />
+    <item
+        android:id="@+id/bottom_manual"
+        android:icon="@drawable/svg_manual"
+        android:title="Manual" />
+    <item
+        android:id="@+id/bottom_preference"
+        android:icon="@drawable/svg_preference"
+        android:title="Preferences" />
+    <item
+        android:id="@+id/bottom_setting"
+        android:icon="@drawable/svg_setting"
+        android:title="Settings" />
+</menu>

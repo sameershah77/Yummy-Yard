@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_blue">#0e2e43</color>
+    <color name="secondary_blue">#3A57B1</color>
+    <color name="blue3">#48677B</color>
+    <color name="thin_blue">#718b9a</color>
+    <color name="thin_blue2">#b8c5cd</color>
+    <color name="thin_blue3">#98afc1</color>
+    <color name="thin_blue4">#B098AFC1</color>
+    <color name="brown">#2e1b07</color>
+    <color name="red">#611028</color>
+    <color name="yellow">#9a7b31</color>
+    <color name="orange">#F57F17</color>
+    <color name="white2">#E2E0E0</color>
+</resources>
